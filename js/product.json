@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title": "Бургер El Classico",
+        "itemsInBox": 1,
+        "weight": 180,
+        "price": 17,
+        "imgSrc": "1.jpeg"
+    },
+    2,
+    3,
+    4
+]
